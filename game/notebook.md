@@ -7,7 +7,7 @@
 
 ## Weapons
 - [x] Brass Bell
-- [ ] Leather Gloves
+- [x] Leather Gloves
 - [ ] Fountain Pen
 
 ## Notes
