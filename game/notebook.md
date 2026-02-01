@@ -15,4 +15,5 @@
 
 Pista 1: Revisar el laboratorio de ciencias en la escuela
 
+Pista 2: Ir al mercado
 
