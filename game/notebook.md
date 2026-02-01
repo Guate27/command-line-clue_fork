@@ -19,4 +19,5 @@ Pista 2: Ir al mercado
 
 Pista 3: Algo sospechoso pasa en el café
 
-
+Pista 4: Según el testimonio  de los testigos y las caracterísiticas del lugar se determinó que la cafetería fue donde ocurrió el homicidio                     
+                                             
