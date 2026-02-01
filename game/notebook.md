@@ -2,11 +2,11 @@
 
 ## Suspects
 - [ ] The Police Officer
-- [ ] The Tailor
-- [ ] The Chef
+- [x] The Tailor
+- [x] The Chef
 
 ## Weapons
-- [ ] Brass Bell
+- [x] Brass Bell
 - [ ] Leather Gloves
 - [ ] Fountain Pen
 
